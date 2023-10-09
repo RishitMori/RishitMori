@@ -3,10 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dev Dalia, an Aspiring Software Engineer👨‍💻 in my final year 🚀</div>  
-  
-
-- 🔭 I’m currently working on [LocalUp-WebApp](https://github.com/devcodes9/LocalUp-WebApp)  
+### <div align="center">I'm Rishit Mori, an Aspiring Software Engineer🚀</div>  
   
 
 - 🌱 I’m currently working with MERN stack  
