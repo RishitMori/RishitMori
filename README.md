@@ -98,7 +98,7 @@
 
 <div align="center">
   <br/>
-<img src="https://komarev.com/ghpvc/?username=RishitMori&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=RishitMori align="center" />
 </div>  
   
 
