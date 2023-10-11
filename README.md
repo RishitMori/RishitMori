@@ -6,13 +6,13 @@
 ### <div align="center">I'm Rishit Mori, an Aspiring Software Engineer🚀</div>  
   
 
-- 🌱 I’m currently working with MERN stack  
+-  I’m currently working with MERN stack
   
+-  Proficient in a range of technologies, languages, and frameworks
 
-- ❓Curious about software engineering practices and technologies  
-  
+- Curious about software engineering practices and technologies  
 
-- ⚡ Building the future one line of code at a time🧑‍💻💫  
+- Building the future one line of code at a time 
   
 
 <br/>  
