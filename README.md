@@ -48,6 +48,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.glugmvit.com%2Fdocker1%2F&psig=AOvVaw0FX95l9IKmy0TuD9JsEtSS&ust=1707767254265000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCD-_aGpIQDFQAAAAAdAAAAABAE" alt="Firebase" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
